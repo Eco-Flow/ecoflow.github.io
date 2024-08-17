@@ -24,11 +24,8 @@ Professor Seirian Sumner is a leading researcher in ecology and genomics.
 Professor Yannick Wurm is a data scientist expert on genome analysis and evolution. He works with [ants and pollinators](https://wurmlab.com), and creates intuitive [software for comparative genomics](https://sequenceserver.com).
 <br><br>
 
-# Plus a Research Technician:<br>
+# Research Technician : Fernando Duarte Frutos
 
-**Research Technician – Bioinformatics**
-
-[Apply Now (until 21st May 2024)](https://t.ly/Kny9r)
 
 # Previous Team Members
 
